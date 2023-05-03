@@ -1,0 +1,22 @@
+body{
+    background-color:floralwhite;
+}
+button {
+    width: 10vw;
+    height: 5vh;
+    background-color: seagreen;
+    border: 1px solid slateblue;
+    border-radius: 2vmax;
+}
+button:hover{
+    background-color:slategray;
+}
+ol{
+    color: rgb(138, 131, 44);
+}
+ol > li {
+    margin-bottom: 5vh;
+}
+h1{
+    color: brown;
+}
